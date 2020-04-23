@@ -78,6 +78,7 @@ seasons = season.to_s
   end
 end	
 
+def all_holidays_with_bbq(holiday_hash)
 
 
 
